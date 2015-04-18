@@ -1,0 +1,11 @@
+numix-wallpaper-aurora (1.0+201406091700~2~ubuntu14.04.1) trusty; urgency=low
+
+  * Auto build.
+
+ -- Paolo Rotolo <rotolopao@gmail.com>  Mon, 09 Jun 2014 17:00:35 +0000
+
+numix-wallpaper-aurora (1.0-0ubuntu1) UNRELASED; urgency=low
+
+  * First release.
+
+ -- Paolo Rotolo <paolorotolo@ubuntu.com>  Fri, 23 May 2014 11:02:16 +0200

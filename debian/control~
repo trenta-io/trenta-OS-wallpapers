@@ -1,0 +1,14 @@
+Source: numix-wallpaper-aurora
+Section: gnome
+Priority: extra
+Maintainer: Paolo Rotolo <paolorotolo@ubuntu.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.5
+
+
+Package: numix-wallpaper-aurora
+Architecture: all
+Depends: ${misc:Depends}
+Description: Numix Wallpaper - Aurora
+ Numix - Aurora.
+ A simple flat wallpaper of a mountains landscape (inspired by Disney's Frozen).

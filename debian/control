@@ -1,0 +1,12 @@
+Source: trenta-wallpapers
+Section: gnome
+Priority: extra
+Maintainer: Kenneth Stier (Millhousen Tech) <kenny.stier19@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.5
+
+
+Package: trenta-wallpapers
+Architecture: all
+Depends: ${misc:Depends}
+Description: Trenta OS Wallpapers
