@@ -1,7 +1,0 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: numix-wallpaper-aurora
-Source: http://numixproject.org/
-
-Files: debian/*
-Copyright: 2012-2013 Paolo Rotolo <paolorotolo@ubuntu.com>
-License: CC-BY-NC-3.0
