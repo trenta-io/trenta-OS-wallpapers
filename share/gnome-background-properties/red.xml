@@ -2,8 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <name>Shiny</name>
-    <filename>/usr/share/backgrounds/shiny.jpg</filename>
+    <name>Red</name>
+    <filename>/usr/share/backgrounds/red.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#ffffff</pcolor>
