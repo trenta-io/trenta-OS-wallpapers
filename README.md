@@ -1,2 +1,2 @@
-# trenta-wallpapers
-Wallpapers for Trenta OS
+# Trenta OS Wallpapers
+Wallpapers curated and edited to enrichen the Trenta OS desktop experience.
